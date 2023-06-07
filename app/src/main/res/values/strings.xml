@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyFlight</string>
+
+    <string name="my">My</string>
+    <string name="flight">Flight</string>
+    <string name="track">Track your flight</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">email</string>
+    <string name="searchbar_hint">Search Flight...</string>
+    <string name="title_activity_homepage">HomepageActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_maps">Maps</string>
+    <string name="title_profile">Profile</string>
+</resources>
